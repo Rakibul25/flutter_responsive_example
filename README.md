@@ -1,17 +1,10 @@
-# flutter_responsive_example
+# Flutter Responsive Demo
 
-A new Flutter project.
+A structured Flutter project to kickstart your journey into responsive design.
 
-## Getting Started
+## Learn More
 
-This project is a starting point for a Flutter application.
+For a detailed explanation of the architecture, implementation steps, and best practices for building responsive Flutter applications with this approach, check out the Medium post:
 
-A few resources to get you started if this is your first Flutter project:
+**[[Medium Post Here](https://medium.com/@rakibul25.dev/build-your-first-responsive-flutter-app-a-clean-architecture-approach-cf1144ebac6d)]**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_responsive_example
